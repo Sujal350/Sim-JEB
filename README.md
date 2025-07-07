@@ -1,6 +1,6 @@
 # Sim-JEB Hybrid Model
 
-This project applies **machine learning** and **deep learning** to predict displacements in mechanical brackets under load, using CAE data of Jet Engine bracket **Sim-JEB dataset**.
+This project applies **machine learning** and **deep learning** to predict displacements in mechanical brackets under load, using **CAE** data of Jet Engine bracket **Sim-JEB dataset**.
 
 ---
 
@@ -21,7 +21,7 @@ Each record includes:
 
 ---
 
-## ⚙Workflow
+## Workflow
 
 1. **Data Preprocessing**
    - Outlier removal
